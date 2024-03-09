@@ -10,4 +10,5 @@
 
 - # Alumna: Montserrat Hernández Quevedo
 # Práctica 4 "Función _.gitignore_"
-##
+##[CLICK AL ENLACE PRÁCTICA 3](https://github.com/Mont-xe/amerike-programacion1-practica_3.git)
+
